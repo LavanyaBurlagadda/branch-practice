@@ -3,3 +3,5 @@ New File Example2
 hello
 
 how are you?
+
+how do you do
